@@ -2,9 +2,15 @@
 
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1500&color=FFFFFF&vCenter=true&width=800&lines=Game+Designer;Artist;Indie+Game+Developer" alt="Typing SVG" />
 
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-6C3483?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-6C3483?style=for-the-badge&logo=godotengine&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-6C3483?style=for-the-badge&logo=aseprite&logoColor=white)
-![Google Docs](https://img.shields.io/badge/Google_Docs-6C3483?style=for-the-badge&logo=googledocs&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-6C3483?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Google Slides](https://img.shields.io/badge/Google_Slides-6C3483?style=for-the-badge&logo=googleslides&logoColor=white)
+<p align="center">
+  <img width="180" height="46" alt="Tools" src="https://github.com/user-attachments/assets/f0b37a01-59d7-45ff-b857-1caf05a9d2fc" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unreal_Engine-3B3B3B?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-3B3B3B?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aseprite-3B3B3B?style=for-the-badge&logo=aseprite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Docs-3B3B3B?style=for-the-badge&logo=googledocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets-3B3B3B?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Slides-3B3B3B?style=for-the-badge&logo=googleslides&logoColor=white" />
+</p>
