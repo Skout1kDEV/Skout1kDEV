@@ -1,6 +1,22 @@
 <img width="735" height="1031" alt="GITHUB" src="https://github.com/user-attachments/assets/c243310e-b0e3-4598-a9a9-81bf48738bcf" />
 
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1500&color=FFFFFF&vCenter=true&width=800&lines=Game+Designer;Artist;Indie+Game+Developer" alt="Typing SVG" />
+<svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <text x="400" y="40" text-anchor="middle" font-family="Fira Code, monospace" font-size="32" fill="#FFFFFF">
+      Game Designer | Artist | Indie Game Developer
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="0,0"
+        to="180,0"
+        begin="0s"
+        dur="2s"
+        fill="freeze"
+        calcMode="spline"
+        keySplines="0.25 0.1 0.25 1" />
+    </text>
+  </g>
+</svg>
 
 
 
